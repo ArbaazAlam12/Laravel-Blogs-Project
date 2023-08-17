@@ -52,4 +52,4 @@ There are to three folder in the view of resources folder. In which admin folder
 
 > While creating project like this you may across many error, make sure to read and research on the error which will help to find solution.
 
-### To clone and run project in your device, [Here](https://dev.to/nobleokechi/how-to-clone-and-setup-laravel-project-from-github-3oe6)
+### To clone and run project in your device, [Follow these steps](https://dev.to/nobleokechi/how-to-clone-and-setup-laravel-project-from-github-3oe6)
